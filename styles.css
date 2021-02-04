@@ -1,18 +1,82 @@
 
 body{
     border: 2px solid green;
-    padding:1em;
+    padding: 1em;
 }
 .container{
     border: 2px solid blue;
-    padding:0.25em;
+    padding: 0.25em;
+    margin:1em;
+   
+   
 }
+.superset1{
+    display:flex;
+    flex-direction: row-reverse;
+    
+}
+.superset2{
+    display:flex;
+flex-direction: column-reverse;
 
+}
 .columns{
     border: 2px solid red;
-    padding:0.25em;
+    padding: 0.25em;
+    margin:1em;
 }
 
 .textbox{
-    border: 2px solid purple
+    border: 2px solid purple;
+   
+}
+
+
+.set1{
+
+}
+
+.set2{
+
+}
+
+.set3{
+
+}
+
+.set4{
+
+}
+
+
+.box1{
+
+}
+.box2{
+
+}
+.box3{
+
+}
+.box4{
+
+}
+.box5{
+
+}
+
+.box6{
+
+}
+
+.box7{
+
+}
+
+.box8{
+
+}
+
+.box9{
+
 }
