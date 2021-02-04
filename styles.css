@@ -1,81 +1,63 @@
-
-body{
+body {
     border: 2px solid green;
     padding: 1em;
 }
-.container{
+
+.container {
     border: 2px solid blue;
-   padding:1em;
-    margin:1em;
-   
-   
+    padding: 1em;
+    margin: 1em;
+
+
 }
-.superset1{
-    display:flex;
-    flex-direction: row-reverse;
-    justify-content: space-evenly;
+
+.superset1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
-.superset2{
-    display:flex;
-flex-direction: column-reverse;
-justify-content: space-evenly;}
-.columns{
+
+.superset2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+
+.columns {
     border: 2px solid red;
-   
-   
+    margin: 0.25em;
+
 }
 
-.textbox{
+.textbox {
     border: 2px solid purple;
-   
-}
-
-
-.set1{
-
-}
-
-.set2{
-
-}
-
-.set3{
-
-}
-
-.set4{
 
 }
 
 
-.box1{
+.set1 {}
 
-}
-.box2{
+.set2 {}
 
-}
-.box3{
+.set3 {}
 
-}
-.box4{
+.set4 {}
 
-}
-.box5{
 
-}
+.box1 {}
 
-.box6{
+.box2 {}
 
-}
+.box3 {}
 
-.box7{
+.box4 {}
 
-}
+.box5 {}
 
-.box8{
+.box6 {}
 
-}
+.box7 {}
 
-.box9{
+.box8 {}
 
-}
+.box9 {}
