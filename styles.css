@@ -13,16 +13,15 @@ body {
 }
 
 .superset1 {
-    display: flex;    
-    justify-content: flex-start;
-    align-items: center;
+     display: flex; 
+     
 }
 
 .superset2 {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
+   
+    
 }
 
 .columns {
@@ -38,29 +37,5 @@ body {
 }
 
 
-.set1 {}
-
-.set2 {}
-
-.set3 {}
-
-.set4 {}
 
 
-.box1 {}
-
-.box2 {}
-
-.box3 {}
-
-.box4 {}
-
-.box5 {}
-
-.box6 {}
-
-.box7 {}
-
-.box8 {}
-
-.box9 {}
